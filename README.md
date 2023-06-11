@@ -1,3 +1,2 @@
-# IranProxyList
-
-#Iran Proxy List For DDoS 
+##IranProxyList
+* Telegram : Https://t.me/RIP_PROJECTS/
